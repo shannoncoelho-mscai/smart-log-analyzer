@@ -10,7 +10,7 @@ import numpy as np
 import plotly.graph_objects as go
 
 # 🔥 FIXED (important)
-API_URL = "http://127.0.0.1:5000"
+API_URL = "https://smart-log-analyzer-2q87.onrender.com/predict"
 
 st.set_page_config(
     page_title="Smart Log Analyzer",
